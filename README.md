@@ -9,7 +9,7 @@ To run this software you need python 2.7 and also to install: bottle, sqlalchemy
 ```sh
 pip install bottle sqlalchemy markdown bottle-sqlalchemy beaker cherrypy
 ```
-With this solution you create wiki pages on demand and upload file into server.
+With this solution you create wiki pages on demand and upload files into server.
 
 Each wikipage has its own uploads and uploaded files are stored inside 'uploads' folder.
 
